@@ -1,0 +1,27 @@
+html {
+    font-family: sans-serif;
+  }
+  
+  /* Your CSS below here */
+
+div {
+  /* BOX SIZE */
+    width: 400px; 
+    height: 200px; 
+    margin: auto;
+  /* Word Aligned  */
+    line-height: 200px; 
+    text-align: center; 
+    font-size: 1.2rem; 
+    /* Box Color  */
+    text-shadow: 2px 2px 2px rgb(0, 0, 0); 
+    background-color: red; 
+    color: #ffffff; 
+    /* Special effects on box  */
+    border-radius: 8px; 
+    border: 1px solid #dd3939; 
+    background-color: red;
+    background: linear-gradient(to bottom right, rgba(255, 0, 0, 0), rgba(255, 0, 0, 0.2) 20%, rgba(255, 0, 0, 0.2)); 
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.4), inset -1px -1px 5px rgba(0, 0, 0, 0.2); 
+}
+
